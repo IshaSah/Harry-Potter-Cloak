@@ -1,4 +1,4 @@
-# Harry-Potter-s-Cloak
+# Harry-Potter-Cloak
 Hello Everyone,<br />
 Here I have created an Invisible Cloak using an image processing technique called **Color detection and segmentation** with OpenCV. <br />
 We first have to take a single color cloth that must not contain any other color. I used a green color cloth for my project. <br />
